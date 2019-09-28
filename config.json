@@ -1,0 +1,22 @@
+{
+  "token": "",
+  "redirects": [
+    {
+      "sources": [
+ "579266840669454357","579266840669454352"],
+       
+      "destinations": [
+        "579731973409341441"
+ ],
+
+"options": {
+   "richEmbed": false,
+ "includeSource": false,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": false     }
+  
+
+     }
+    ]
+  }
