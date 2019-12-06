@@ -1,16 +1,16 @@
 {
-  "token": "",
+  "token": "GIVE_TOKEN",
   "redirects": [
     {
       "sources": [
- "579266840669454357","579266840669454352"],
+ "xxxxxxxxxxxxxxx"],
        
       "destinations": [
-        "579731973409341441"
+        "xxxxxxxxxxxxx"
  ],
 
 "options": {
-   "richEmbed": false,
+   "richEmbed": true,
  "includeSource": false,
         "removeEveryone": true,
         "removeHere": true,
