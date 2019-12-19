@@ -10,7 +10,7 @@
  ],
 
 "options": {
-   "richEmbed": true,
+   "richEmbed": false,
  "includeSource": false,
         "removeEveryone": true,
         "removeHere": true,
